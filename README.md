@@ -1,4 +1,4 @@
-# emp-list
-A java swing app to manage employee database
+# cricket-oe
+Fun game to bring back some childhood memories
 
-**Latest release** - [EmpList.jar](https://github.com/sakshamgupta05/emp-list/releases/latest)
+**Latest release** - [CricketOE.jar](https://github.com/sakshamgupta05/cricket-oe/releases/latest)
